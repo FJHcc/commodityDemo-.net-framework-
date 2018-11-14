@@ -1,0 +1,9 @@
+D:\myC\CommodityWeb.Api\Commodity.IService\bin\Debug\netstandard2.0\Commodity.IService.deps.json
+D:\myC\CommodityWeb.Api\Commodity.IService\bin\Debug\netstandard2.0\Commodity.IService.dll
+D:\myC\CommodityWeb.Api\Commodity.IService\bin\Debug\netstandard2.0\Commodity.IService.pdb
+D:\myC\CommodityWeb.Api\Commodity.IService\obj\Debug\netstandard2.0\Commodity.IService.csprojAssemblyReference.cache
+D:\myC\CommodityWeb.Api\Commodity.IService\obj\Debug\netstandard2.0\Commodity.IService.csproj.CoreCompileInputs.cache
+D:\myC\CommodityWeb.Api\Commodity.IService\obj\Debug\netstandard2.0\Commodity.IService.AssemblyInfoInputs.cache
+D:\myC\CommodityWeb.Api\Commodity.IService\obj\Debug\netstandard2.0\Commodity.IService.AssemblyInfo.cs
+D:\myC\CommodityWeb.Api\Commodity.IService\obj\Debug\netstandard2.0\Commodity.IService.dll
+D:\myC\CommodityWeb.Api\Commodity.IService\obj\Debug\netstandard2.0\Commodity.IService.pdb

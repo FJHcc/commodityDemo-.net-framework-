@@ -1,0 +1,12 @@
+D:\myC\CommodityWeb.Api\Commodity.Service\bin\Debug\netstandard2.0\Commodity.Service.deps.json
+D:\myC\CommodityWeb.Api\Commodity.Service\bin\Debug\netstandard2.0\Commodity.Service.dll
+D:\myC\CommodityWeb.Api\Commodity.Service\bin\Debug\netstandard2.0\Commodity.Service.pdb
+D:\myC\CommodityWeb.Api\Commodity.Service\bin\Debug\netstandard2.0\Commodity.IService.dll
+D:\myC\CommodityWeb.Api\Commodity.Service\bin\Debug\netstandard2.0\Commodity.IService.pdb
+D:\myC\CommodityWeb.Api\Commodity.Service\obj\Debug\netstandard2.0\Commodity.Service.csprojAssemblyReference.cache
+D:\myC\CommodityWeb.Api\Commodity.Service\obj\Debug\netstandard2.0\Commodity.Service.csproj.CoreCompileInputs.cache
+D:\myC\CommodityWeb.Api\Commodity.Service\obj\Debug\netstandard2.0\Commodity.Service.AssemblyInfoInputs.cache
+D:\myC\CommodityWeb.Api\Commodity.Service\obj\Debug\netstandard2.0\Commodity.Service.AssemblyInfo.cs
+D:\myC\CommodityWeb.Api\Commodity.Service\obj\Debug\netstandard2.0\Commodity.Service.csproj.CopyComplete
+D:\myC\CommodityWeb.Api\Commodity.Service\obj\Debug\netstandard2.0\Commodity.Service.dll
+D:\myC\CommodityWeb.Api\Commodity.Service\obj\Debug\netstandard2.0\Commodity.Service.pdb
